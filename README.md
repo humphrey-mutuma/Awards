@@ -65,9 +65,9 @@ Once `pip` has finished downloading the dependencies:
 ```
 
 ## How the app works
-* A user needs to log in if they have na existing account
-* A user can sign up f they do not have an account
-* A user then can be able to view a persons profile and the projects they have worked on.
+* A user needs to log in if they have an existing account
+* A user can sign up if they do not have an account
+* A user then can view a persons profile and the projects they have worked on.
 
 
 ## Support and contact details
